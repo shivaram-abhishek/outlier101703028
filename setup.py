@@ -26,11 +26,7 @@ setup(
 
           'numpy',
 
-          'pandas',
-          
-          'csv',
-          
-          'sys'
+          'pandas'
 
       ],
 
